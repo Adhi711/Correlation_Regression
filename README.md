@@ -1,4 +1,13 @@
 # Correlation and regression for data analysis
+
+# Exp:03
+
+# Date : 26.10.2024
+
+# Name:ADHARSH VIDYARDH U
+
+# Register No:24900088
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -16,14 +25,17 @@ Correlation describes the strength of an association between two variables, and 
 If y represents the dependent variable and x the independent variable, this relationship is described as the regression of y on x. The relationship can be represented by a simple equation called the regression equation. The regression equation representing how much y changes with any given change of x can be used to construct a regression line on a scatter diagram, and in the simplest case this is assumed to be a straight line.
 
 # Procedure :
-
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
 
+developed by:ADHARSH VIDYARDH U
+
+register no:24900088
+
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
-
-# Result
-
 # Output 
+![280664550-79cf2734-4776-405b-ae0b-b645f23f97c4](https://github.com/user-attachments/assets/b5469732-dab1-462c-aade-cd35e987f39a)
+# Result
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
